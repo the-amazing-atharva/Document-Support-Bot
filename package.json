@@ -1,0 +1,19 @@
+{
+	"name": "Document Support Bot",
+	"version": "0.1-pre",
+	"description": "Bot uses slash commands to access documentation on its own repo and post it in the channel",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon ."
+	},
+	"dependencies": {
+		"discord.js": "^14.7.1",
+		"dotenv": "^16.0.3"
+	},
+	"keywords": [
+		"bot"
+	],
+	"author": "Yosi Leyid",
+	"license": "Mozilla Public License v2.0"
+}
