@@ -20,8 +20,8 @@ Contributing to this project is simple. Just join our discord server and become 
 
 ## Issues & Feature Requests
 
-There are templates for ISSUES and FEATURES in the server as well as here on the repository. Please raise issues in github so we can easily track and work on them. 
+There are templates for ISSUES and FEATURES in the server as well as here on the repository. Please raise issues in github so we can easily track and work on them. I also have a Project Board enabled for this repo. Feel free to use it to reference issues and notify me of PRs etc. Alternately you can join our discord server and I can help you.
 
 ## Support
 
-Join our discord server and we already have a channel set up for `Issues` and `Bugs`.
+Join our [discord server](https://discord.gg/KpGXAEnVnv) and we already have a channel set up for `Issues` and `Bugs`.

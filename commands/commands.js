@@ -1,13 +1,18 @@
-/** 
+/**
+ * commands/commands.js
+ *
+ * =======
+ * PURPOSE
+ * =======
  * 
- * Author     : yosileyid
- * File       : commands.js
- * Type       : Module
- * Definition : This module exports the functions needed to make calls to the 
- *              various files in this directory. Each file has a similar header
- *              that explains what it will do. 
  * 
-*/
+ * @license = MPL v2.0
+ * @version = 0.0.1
+ * @updated = "2023-02-07"
+ * @link    = "https://github.com/yosileyid/Document-Support-Bot/blob/main/commands/commands.js"
+ * @author  = Yosi Leyid https://github.com/yosileyid
+ *
+ */
 
 'use script'
 
