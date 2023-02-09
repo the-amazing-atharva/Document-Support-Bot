@@ -16,7 +16,7 @@ You must already have `Node.js` and `npm` installed already on your machine. The
 
 ## Contributing
 
-Contributing to this project is simple. Just join our discord server and become a member first so we can add you on to the team and then you can help. Our guidelines are found in the [Code of Conduct](/Docs/CODE_OF_CONDUCT.md) and [Contributing](/Docs/CODE_OF_CONDUCT.md) files.
+Contributing to this project is simple. Just join our discord server and become a member first so we can add you on to the team and then you can help. Our guidelines are found in the [Code of Conduct](/Docs/CODE_OF_CONDUCT.md) and [Contributing](https://github.com/yosileyid/Document-Support-Bot/blob/main/Docs/CONTRIBUTING.md) files.
 
 ## Issues & Feature Requests
 
